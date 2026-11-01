@@ -2,7 +2,7 @@
 
 What can I safely spend today, and still make it to next month?
 
-**Live demo:** https://kanishksaini-007.github.io/SpendLeft/
+**Live demo:** https://kanishk-saini-007.github.io/SpendLeft/
 
 ## What it does
 
